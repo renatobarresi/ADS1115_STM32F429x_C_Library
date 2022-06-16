@@ -1,0 +1,8 @@
+ADS1115.c:24:16:_ADS1115_write_config_reg	24	static
+ADS1115.c:34:16:_ADS1115_read_conversion_reg	24	static
+ADS1115.c:49:9:ADS1115_init	16	static
+ADS1115.c:69:9:ADS1115_Set_Mode	24	static
+ADS1115.c:96:9:ADS1115_Set_Volt_Range	24	static
+ADS1115.c:155:9:ADS1115_Set_Compare_Channel	24	static
+ADS1115.c:187:9:ADS1115_Start_Single_Measurement	24	static
+ADS1115.c:208:7:ADS1115_Get_Volt	24	static

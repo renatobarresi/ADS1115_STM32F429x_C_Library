@@ -1,0 +1,6 @@
+STM32F429x.c:17:6:_ADS1115_delay	16	static
+STM32F429x.c:30:6:HAL_I2C_MspInit	48	static
+STM32F429x.c:68:6:HAL_I2C_MspDeInit	16	static
+STM32F429x.c:102:9:_ADS1115_I2C_init	8	static
+STM32F429x.c:132:9:_ADS1115_I2C_reg_write	48	static
+STM32F429x.c:144:9:_ADS1115_I2C_reg_read	48	static
