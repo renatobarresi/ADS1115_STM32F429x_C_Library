@@ -2,7 +2,7 @@
 
 Version 1.0
 
-##Atributos
+## Atributos
 ```
 /*Device I2C address*/
 ADS1115_I2C_ADDR_GND 
@@ -41,7 +41,7 @@ typedef struct _ADS1115_Handler{
 }ADS1115_handler;
 ```
 
-##Metodos
+## Metodos
 ```
 uint8_t ADS1115_init(ADS1115_handler *ads, uint8_t address);
 uint8_t ADS1115_Set_Mode(ADS1115_handler *ads, uint8_t mode);
